@@ -1,0 +1,13 @@
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\bin\Debug\Employee_Details.exe.config
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\bin\Debug\Employee_Details.exe
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\bin\Debug\Employee_Details.pdb
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.Properties.Resources.resources
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.csproj.GenerateResource.cache
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.csproj.CoreCompileInputs.cache
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.exe
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.pdb
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.Login_form.resources
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.Registration_Form.resources
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.Employeedatabase.resources
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.employeegrid.resources
+C:\Users\Haneesha.Rongala\source\repos\Employee_Details\Employee_Details\obj\Debug\Employee_Details.csprojAssemblyReference.cache

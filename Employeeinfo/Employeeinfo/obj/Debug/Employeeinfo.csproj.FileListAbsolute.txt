@@ -1,0 +1,11 @@
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\bin\Debug\Employeeinfo.exe.config
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\bin\Debug\Employeeinfo.exe
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\bin\Debug\Employeeinfo.pdb
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.Employeeinfo.resources
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.Login.resources
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.Properties.Resources.resources
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.csproj.GenerateResource.cache
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.csproj.CoreCompileInputs.cache
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.exe
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.pdb
+C:\Users\Haneesha.Rongala\source\repos\Employeeinfo\Employeeinfo\obj\Debug\Employeeinfo.csprojAssemblyReference.cache

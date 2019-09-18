@@ -1,0 +1,12 @@
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\Automation.exe.config
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\Automation.exe
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\Automation.pdb
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\WebDriver.dll
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\WebDriver.xml
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\bin\Debug\WebDriver.Support.xml
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\obj\Debug\Automation.csproj.CopyComplete
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\obj\Debug\Automation.exe
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\obj\Debug\Automation.pdb
+C:\Users\Haneesha.Rongala\source\repos\Automation\Automation\obj\Debug\Automation.csprojAssemblyReference.cache

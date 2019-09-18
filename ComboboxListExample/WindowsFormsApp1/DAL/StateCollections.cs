@@ -8,10 +8,10 @@ namespace WindowsFormsApp1
         public List<State> GetStates()
         {
             states.Add(new State(){StateId = 0,StateName = "Select"});
-            states.Add(new State(){StateId = 1,StateName = "Telangana"});
-            states.Add(new State(){StateId = 2,StateName = "Maharastra"});
-            states.Add(new State(){StateId = 3,StateName = "Kerala"});
-            states.Add(new State(){StateId = 4,StateName = "Indore"});
+            //states.Add(new State(){StateId = 1,StateName = "Telangana"});
+            //states.Add(new State(){StateId = 2,StateName = "Maharastra"});
+            //states.Add(new State(){StateId = 3,StateName = "Kerala"});
+            //states.Add(new State(){StateId = 4,StateName = "Indore"});
 
             return states;
         }

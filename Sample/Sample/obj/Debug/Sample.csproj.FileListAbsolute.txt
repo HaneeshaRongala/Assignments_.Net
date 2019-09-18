@@ -1,0 +1,11 @@
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.Calculator.resources
+C:\Users\Haneesha.Rongala\source\repos\Sample\Sample\obj\Debug\Sample.Login.resources
